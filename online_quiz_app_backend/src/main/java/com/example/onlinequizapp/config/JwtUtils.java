@@ -1,0 +1,5 @@
+package com.example.onlinequizapp.config;
+
+public class JwtUtils {
+
+}
